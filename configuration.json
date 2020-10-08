@@ -1,0 +1,52 @@
+{
+	"attiny2313": {
+		"minipro-name":		"ATTINY2313",
+		"stock-config": {
+			"fuses_lo": 98,
+			"fuses_hi": 223,
+			"fuses_ext": 255,
+			"lock_byte": 255
+		}
+	},
+	"attiny26": {
+		"minipro-name":		"ATTINY26",
+		"stock-config": {
+			"fuses_lo": 100,
+			"fuses_hi": 255,
+			"lock_byte": 255
+		}
+	},
+	"atmega88": {
+		"minipro-name":		"ATMEGA88PA",
+		"stock-config": {
+			"fuses_lo": 100,
+			"fuses_hi": 255,
+			"fuses_ext": 249,
+			"lock_byte": 255
+		}
+	},
+	"atmega168": {
+		"minipro-name":		"ATMEGA168A",
+		"stock-config": {
+			"fuses_lo": 100,
+			"fuses_hi": 255,
+			"fuses_ext": 249,
+			"lock_byte": 255
+		}
+	},
+	"atmega32": {
+		"minipro-name":		"ATMEGA32",
+		"stock-config": {
+			"fuses_lo": 100,
+			"fuses_hi": 255,
+			"lock_byte": 255
+		}
+	},
+	"at90s4433": {
+		"minipro-name":		"AT90S4433",
+		"stock-config": {
+			"fuses": 228,
+			"lock_byte": 255
+		}
+	}
+}
